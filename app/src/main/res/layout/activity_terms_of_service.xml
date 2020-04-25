@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20sp"
+    tools:context=".TermsOfServiceActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/TermsTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:gravity="center_horizontal"
+            android:text="@string/Terms_Of_Service_Title"
+            android:textSize="@dimen/terms_textsize1"/>
+
+        <TextView
+            android:id="@+id/Terms"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/Terms_Of_Service1"
+            android:textSize="@dimen/terms_textsize2"
+            />
+
+        <TextView
+            android:id="@+id/TermA"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/terms_space"
+            android:text="@string/Term_A"
+            android:textSize="@dimen/terms_textsize2"
+            />
+
+        <TextView
+            android:id="@+id/TermB"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/terms_space"
+            android:text="@string/Term_B"
+            android:textSize="@dimen/terms_textsize2"
+            />
+
+        <TextView
+            android:id="@+id/TermC"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/terms_space"
+            android:text="@string/Term_C"
+            android:textSize="@dimen/terms_textsize2"
+            />
+
+        <TextView
+            android:id="@+id/TermD"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/terms_space"
+            android:text="@string/Term_D"
+            android:textSize="@dimen/terms_textsize2"
+            />
+
+
+    </LinearLayout>
+
+
+
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

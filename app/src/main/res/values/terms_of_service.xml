@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="Terms_Of_Service_Title">Terms of Service</string>
+
+    <string name="Terms_Of_Service1">OnePlus File Manager provides file management services (the Services) within a device on these Terms of Service.
+        By using the Services, you understand and agree to these Terms of Service. You undertake not to use the Services for any illegal purpose
+        or by any illegal means, and you undertake to comply with applicable regulations in your country or territory and all international
+        practices regarding the use of the internet. You agree and warrant not to use the Services to infringe upon others\' rights and interests
+        or engage in illegal activities, including but not limited to:
+    </string>
+
+    <string name="Term_A">A. Infringe upon others\' privacy, trade secrets, trademarks, copyrights, patents or other intellectual property rights or other rights;</string>
+    <string name="Term_B">B. Committing  a breach of obligations under law or a contract;</string>
+    <string name="Term_C">C. Transmitting or spreading any data that contains computer viruses or any program code that can interrupt, damage or restrict the functions of computer software or hardware;</string>
+    <string name="Term_D">D. Disseminate any other laws or regulations  that prohibit or the content that violates public order.</string>
+
+</resources>

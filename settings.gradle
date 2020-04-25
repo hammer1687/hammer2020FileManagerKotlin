@@ -1,0 +1,2 @@
+rootProject.name='File Manager Kotlin 2'
+include ':app'
